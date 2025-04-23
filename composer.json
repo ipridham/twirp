@@ -65,7 +65,7 @@
             "type": "vcs",
             "url": "https://github.com/ipridham/twirp"
         }
-    }
+    },
     "minimum-stability": "dev",
     "archive": {
         "exclude": [
