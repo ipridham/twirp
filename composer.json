@@ -1,5 +1,5 @@
 {
-    "name": "twirp/twirp",
+    "name": "ipridham/twirp",
     "description": "PHP port of Twitch's Twirp RPC framework",
     "license": "MIT",
     "keywords": ["twirp", "rpc", "framework", "idl", "protobuf"],
